@@ -40,7 +40,7 @@ int main(){
         printf("%i, ", arr[i]);
     }
     printf("%i", arr[count-1]);
-    printf("]\nTime ran: %f", execution_time);
+    printf("]\nTime ran: %f\n", execution_time);
     return 0;
 
 }
